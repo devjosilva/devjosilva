@@ -58,6 +58,7 @@ Proyecto desarrollado utilizando los servicios cognitivos de Azure AI para anali
 ## 🔗 Enlaces
 
 - [LinkedIn](https://www.linkedin.com/in/jonathan-silva-sepulveda)
+- [Github](https://github.com/devjosilva)
 
 ---
 
