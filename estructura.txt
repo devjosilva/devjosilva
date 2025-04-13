@@ -1,0 +1,16 @@
+mi-portafolio/
+│
+├── README.md                ← Presentación personal
+├── /assets/                 ← Fotografía o avatar
+│
+├── /projects/               ← Carpeta para subir tus proyectos
+│   └── analisis-documentos/← Ejemplo de proyecto IA900 (análisis de imágenes)
+│       ├── README.md
+│       └── código fuente
+│
+├── /about/                  ← Información adicional como CV en PDF, certificados, etc.
+│   └── cv-josilva.pdf
+│
+└── .github/
+    └── profile/
+        └── README.md       ← (opcional) presentación visible en tu perfil GitHub
