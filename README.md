@@ -1,3 +1,5 @@
+![Imagen del proyecto](https://github.com/devjosilva/devjosilva/blob/main/assets/home1.png)
+
 # 👨‍💻 Jonathan Silva — Ingeniero en Infórmatica
 
 ¡Hola! Soy **Jonathan Silva**, Ingeniero en Informática con más de 20 años de experiencia en el desarrollo de software, gestión de equipos TI y liderazgo técnico. Actualmente me desempeño como **Subgerente de TI** en el holding logístico **Nazar**, liderando proyectos estratégicos, integraciones de sistemas, y transformación digital con enfoque en backend y datos.
