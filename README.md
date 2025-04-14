@@ -47,7 +47,8 @@
 
 ### 📄 Extracción de datos desde documentos electrónicos con Azure AI
 Proyecto desarrollado utilizando los servicios cognitivos de Azure AI para analizar imágenes de facturas y guías de despacho, automatizando el proceso de extracción y clasificación de datos.  
-[Ver proyecto](./projects/analisis-documentos/README.md)
+[Ver proyecto](https://github.com/devjosilva?tab=repositories)
+<!-- [Ver proyecto](./projects/analisis-documentos/README.md) -->
 
 ---
 
@@ -60,7 +61,7 @@ Proyecto desarrollado utilizando los servicios cognitivos de Azure AI para anali
 ## 🔗 Enlaces
 
 - [LinkedIn](https://www.linkedin.com/in/jonathan-silva-sepulveda)
-- [Github](https://github.com/devjosilva)
+- [Github](https://github.com/devjosilva?tab=repositories)
 
 ---
 
