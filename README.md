@@ -51,9 +51,9 @@ Proyecto desarrollado utilizando los servicios cognitivos de Azure AI para anali
 
 ---
 
-## 📷 Fotografía
+<!--## 📷 Fotografía -->
 
-![avatar](./assets/avatar.png) <!-- Aquí debes subir tu imagen -->
+<!-- ![avatar](./assets/avatar.png)  <!-- Aquí debes subir tu imagen -->
 
 ---
 
